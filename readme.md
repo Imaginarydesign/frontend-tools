@@ -41,6 +41,7 @@ Constantly growing personal list of tools, libraries, assets and any other open-
 * [Bootstrap](http://twitter.github.com/bootstrap/)
 	* [Compass Twitter Bootstrap](https://github.com/vwall/compass-twitter-bootstrap)
 * [inuit.css](https://github.com/csswizardry/inuit.css): Powerful, scalable, Sass-based, BEM, OOCSS framework.
+* [Grumby](http://gumbyframework.com/): The NEW Responsive 960 Grid CSS 
 
 ---
 
@@ -118,6 +119,7 @@ Constantly growing personal list of tools, libraries, assets and any other open-
 	* [jKit](http://jquery-jkit.com/): A very easy to use, cross platform, jQuery based UI toolkit
 	* [jQuery API](http://api.jquery.com/)
 	* [jQuery Ui](http://jqueryui.com/)
+	* [jQuery++](http://jquerypp.com/): collection of extremely useful DOM helpers.
 
 
 ---
