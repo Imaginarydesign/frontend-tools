@@ -40,11 +40,16 @@ Constantly growing personal list of tools, libraries, assets and any other open-
 * [Foundation](http://foundation.zurb.com/)
 * [Bootstrap](http://twitter.github.com/bootstrap/)
 	* [Compass Twitter Bootstrap](https://github.com/vwall/compass-twitter-bootstrap)
+* [inuit.css](https://github.com/csswizardry/inuit.css): Powerful, scalable, Sass-based, BEM, OOCSS framework.
 
 ---
 
 ######CSS Preprocessors ([Comparison](https://gist.github.com/674726))
 * [Sass](http://sass-lang.com/): Syntactically Awesome Stylesheets
+	* [compass](http://compass-style.org)
+	* [inuit.css](https://github.com/csswizardry/inuit.css)
+	* [Bourbon](https://github.com/thoughtbot/bourbon): Mixins library for Sass
+	* [Neat](https://github.com/thoughtbot/neat): Semantic CSS grid framework
 * [Less](http://lesscss.org): The dynamic stylsheet language
 
 ---
@@ -104,6 +109,14 @@ Constantly growing personal list of tools, libraries, assets and any other open-
 
 * [require.js](http://requirejs.org/) The awesomest AMD script loader
 * [YepNope](http://yepnopejs.com/) conditional loader for polyfills
+
+###### JQuery
+
+* [jQuery](http://jquery.com/): Write less; do more.
+	* [jQuery Fundamentals](http://jqfundamentals.com/) Massively awesome online course/ebook
+	* [Handpicked jQuery Plugins](http://iwantaneff.in/repo/index.html)
+	* [jKit](http://jquery-jkit.com/): A very easy to use, cross platform, jQuery based UI toolkit
+
 
 ---
 
