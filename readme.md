@@ -95,11 +95,11 @@ Constantly growing personal list of tools, libraries, assets and any other open-
 
 ---
 
-###### CSS Grid Tools
+###### CSS Grid Systems / Builders
 
-*Coming soon*
-
-* [960.gs](http://960.gs/)
+* [960.gs](http://960.gs/): The 960 Grid System is an effort to streamline web development workflow.
+* [Profound Grid](http://www.profoundgrid.com/): A responsive grid system for fixed and fluid layouts.
+* [YUI Grid Builder](http://yui.github.com/gridbuilder/): A little web app that generates responsive YUI Grids CSS
 
 ---
 
@@ -116,6 +116,8 @@ Constantly growing personal list of tools, libraries, assets and any other open-
 	* [jQuery Fundamentals](http://jqfundamentals.com/) Massively awesome online course/ebook
 	* [Handpicked jQuery Plugins](http://iwantaneff.in/repo/index.html)
 	* [jKit](http://jquery-jkit.com/): A very easy to use, cross platform, jQuery based UI toolkit
+	* [jQuery API](http://api.jquery.com/)
+	* [jQuery Ui](http://jqueryui.com/)
 
 
 ---
@@ -152,16 +154,22 @@ Constantly growing personal list of tools, libraries, assets and any other open-
 * [SubtlePatterns](http://subtlepatterns.com/): tons of really nice, subtle patterns, love this site!
 * [Noise Texture Generator](http://www.noisetexturegenerator.com/)
 
+###### Colour
+
+* [0to255](http://0to255.com/): simple tool that helps web designers find variations of any color.
+
+
 ---
 
 ## Learning
-In progress: Resources, etc
+*In progress: Resources, etc*
 
 ---
 
 ## Version control
 
 * [GIT](http://git-scm.com/) Free and open source distributed version control system.
+	* [GitX](http://gitx.frim.nl/): App (Mac only)
 
 ---
 
