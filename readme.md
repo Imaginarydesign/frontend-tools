@@ -215,3 +215,4 @@ Constantly growing personal list of tools, libraries, assets and any other open-
 ## Thanks
 * [Cody Lindley - Landscaping With Frontend Development Tools](https://github.com/codylindley/frontend-tools)
 * [Christopher Scott Hernandez - Frontend Toolbox](https://github.com/christopherscott/frontend-toolbox)
+* [Ralph Meier - webdev-resources](https://github.com/DaRaFF/webdev-resources/)
