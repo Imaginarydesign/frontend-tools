@@ -104,6 +104,12 @@ Constantly growing personal list of tools, libraries, assets and any other open-
 
 ---
 
+## Build tools, assemblers
+
+* [Yeoman](http://yeoman.io/): a robust and opinionated client-side stack, comprised of tools and frameworks that can help developers quickly build beautiful web applications.
+
+---
+
 ## JS
 
 ######Module/Script Loaders ([Javascript Loaders Comparison](https://spreadsheets.google.com/spreadsheet/lv?key=0Aqln2akPWiMIdERkY3J2OXdOUVJDTkNSQ2ZsV3hoWVE&f=true&noheader=true&gid=2))
